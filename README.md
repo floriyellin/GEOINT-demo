@@ -1,4 +1,4 @@
-![Grounded SAM Inpainting Demo](https://github.com/IDEA-Research/Grounded-Segment-Anything/raw/main/assets/grounded_sam_inpainting_demo.png)
+![Grounded SAM Inpainting Demo](./GEOINT-Demo-2024.png)
 
 ## Why this project?
 
